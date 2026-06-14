@@ -1,0 +1,1 @@
+Al consultar la ruta GET /reportes, el servidor devuelve la lista de reportes registrados previamente mediante la ruta POST. Cada reporte contiene un identificador, el tipo y la descripción de la incidencia. Esto permite almacenar y consultar información comunitaria de forma organizada.
