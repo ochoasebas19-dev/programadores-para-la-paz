@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas reciban información de forma estructurada.
+Esto permite organizar los datos de manera clara y eficiente.
+El uso de formatos como JSON facilita el intercambio de información.
+Además, ayuda a registrar reportes y solicitudes de los ciudadanos.
+La información estructurada reduce errores y mejora el procesamiento de datos.
+También permite responder más rápido a las necesidades de la comunidad.
+Las instituciones pueden analizar la información y tomar mejores decisiones.
+Estas herramientas fortalecen la participación ciudadana y la transparencia.
+Por ello, la tecnología contribuye a crear servicios más útiles y organizados.
