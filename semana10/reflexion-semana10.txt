@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten organizar mejor el trabajo porque dividen los proyectos
+en tareas pequeñas y fáciles de priorizar según su importancia. El backlog ayuda a mantener
+un orden claro de las actividades y facilita el seguimiento del avance del proyecto. Además,
+herramientas como n8n permiten automatizar procesos repetitivos, reduciendo tiempo y errores.
+Telegram sirve como un canal de comunicación rápido para enviar avisos y coordinar al equipo
+sin compartir información sensible. La combinación de estas herramientas mejora la colaboración,
+la organización y la trazabilidad de las tareas realizadas. También favorece una respuesta más
+rápida ante las necesidades de la comunidad y contribuye al desarrollo de soluciones tecnológicas
+más eficientes, responsables y fáciles de
