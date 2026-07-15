@@ -1,0 +1,8 @@
+Durante este curso aprendí que la tecnología puede ayudar a fortalecer la participación ciudadana cuando se utiliza de forma responsable.
+Comprendí la importancia de organizar la información mediante bases de datos y protegerla con sistemas de autenticación. 
+También aprendí cómo una plataforma puede registrar causas y apoyos para facilitar la organización comunitaria.
+El desarrollo de APIs y la automatización permiten que los procesos sean más rápidos y eficientes. 
+Además, entendí que la privacidad de los usuarios siempre debe ser una prioridad. 
+La generación automática de documentos facilita presentar solicitudes de manera formal.
+Considero que herramientas como "Petición en 3 Clics" pueden ayudar a que más personas participen en iniciativas comunitarias.
+Este curso me permitió conocer cómo la programación puede utilizarse para crear soluciones con impacto social y beneficio para la comunidad.
