@@ -1,0 +1,6 @@
+Evento: Se registra una nueva causa en la plataforma.
+
+Mensaje: "Se ha creado una nueva causa comunitaria y está disponible para recibir apoyos."
+
+Información que no debe enviarse:
+No se deben enviar cédulas, teléfonos, direcciones, correos electrónicos, contraseñas, tokens ni otros datos personales o sensibles de los ciudadanos.
